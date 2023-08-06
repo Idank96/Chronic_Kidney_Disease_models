@@ -4,12 +4,7 @@ This repository contains implementations of four different models to predict chr
 
 The models included in this project are:
 
-1. Naive Bayes
-2. K Nearest Neighbors
-3. K Means Clustering
-4. Connected Neural Network
-
-Models
+### Models
 1. Naive Bayes
 Naive Bayes is a probabilistic classifier based on Bayes' theorem with the assumption of independence between features. It is well-suited for handling high-dimensional data and is computationally efficient.
 
